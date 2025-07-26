@@ -1,6 +1,6 @@
-# 🚀 BuildIn15 – with Deep
+# 🚀 SkillStack – with DeepLogic Labs
 
-**BuildIn15 – with Deep** is a developer-focused initiative where I explore one tech topic every 15 days through practical, hands-on learning.
+**Skill Stack – with DeepLogic Labs** is a developer-focused initiative where I explore one tech topic every 15 days through practical, hands-on learning.
 
 This repository contains concise, structured content designed to help developers, students, and curious learners sharpen their skills — one day at a time.
 
