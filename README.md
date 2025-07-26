@@ -1,4 +1,4 @@
-# 🚀 SkillStack By DeepLogic Labs
+# 🚀 Skill Stack By DeepLogic Labs
 
 **Skill Stack By DeepLogic Labs** is a developer-focused initiative where I explore one tech topic every 15 days through practical, hands-on learning.
 
