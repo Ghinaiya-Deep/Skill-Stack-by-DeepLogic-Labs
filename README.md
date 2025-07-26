@@ -11,4 +11,5 @@ Stay consistent. Build daily. Grow endlessly.
 Let’s code the future, one commit at a time. 💻🔥
 
 🔗 Connect with me on LinkedIn: linkedin.com/in/deep-ghinaiya
+
 👥 Join my tech community: linkedin.com/groups/10085043
